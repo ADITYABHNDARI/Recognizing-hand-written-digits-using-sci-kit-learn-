@@ -1,2 +1,2 @@
 # Recognizing-hand-written-digits-using-sci-kit-learn
- you can contribute further but do not change my code. ❤ 
+ [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal&style=flat-square)](https://paypal.me/iAdityaBhandari/311)&nbsp;
